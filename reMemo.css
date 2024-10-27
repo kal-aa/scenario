@@ -1,0 +1,23 @@
+      input {
+        text-transform: capitalize;
+      }
+
+      #div,
+      #removeAll,
+      .inputDiv,
+      .buttonDiv {
+        text-align: center;
+        padding-top: 3%;
+      }
+
+      button:hover {
+        transform: scale(1.1);
+      }
+      button:active {
+        background-color: rgb(187, 173, 173);
+        color: white;
+      }
+
+      #div {
+        text-transform: capitalize;
+      }
